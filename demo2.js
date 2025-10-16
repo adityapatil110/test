@@ -91,7 +91,7 @@
 //         return this.a + this.b;
 //     }
 // }
-// console.log(obj)
+// console.log(obj) 
 
 alert("hello world")
 
