@@ -94,3 +94,7 @@
 // console.log(obj)
 
 alert("hello world")
+
+console.log("hello")
+
+console.log("aditya")
